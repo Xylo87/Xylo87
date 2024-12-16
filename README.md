@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xylo87
 - 👀 I’m interested in Front-End & Back-End
-- 🌱 I’m currently learning CSS, JavaScript & PHP
+- 🌱 I’m currently learning CSS, JavaScript, PHP & SQL
 - 💞️ I’m looking to collaborate on Front & Design, for now !
 - 📫 How to reach me theo.arbogast@hotmail.fr
 - 😄 Pronouns: He/Him
