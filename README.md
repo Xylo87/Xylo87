@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xylo87
 - 👀 I’m interested in Front-End & Back-End
 - 🌱 I’m currently learning CSS, JavaScript, PHP & SQL
-- 💞️ I’m looking to collaborate on Front & Design, for now !
+- 💞️ I’m looking to collaborate on Front, Design & SQL for now !
 - 📫 How to reach me theo.arbogast@hotmail.fr
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Super Street Fighter 2 Turbo competitor
