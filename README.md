@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xylo87
 - 👀 I’m interested in Back-End & Front-End
-- 🌱 I’m currently learning PHP, Symfony, CSS, JavaScript, SQL...
+- 🌱 I’m currently learning Symfony, PHP, CSS, JavaScript, SQL...
 - 💞️ I’m looking to collaborate on Symfony, Front & Design for now !
 - 📫 How to reach me theo.arbogast@hotmail.fr
 - 😄 Pronouns: He/Him
