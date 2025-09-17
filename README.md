@@ -9,9 +9,16 @@
 
 ## Feel free to take a look at my latest projects. Always curious about learning new techs !
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,mysql)](https://skillicons.dev)
 
-<!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) --->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="(https://skillicons.dev/icons?i=html,css,php,js,mysql" />
+  </a>
+</p>
+
+<!--- [![My Skills](https://skillicons.dev/icons?i=html,css,php,js,mysql)](https://skillicons.dev) --->
+
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) --->
 
 <!---
 Xylo87/Xylo87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
