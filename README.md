@@ -13,7 +13,7 @@
 <p align="center">
   ⏪ Languages & Tools ⏩ <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql&perline=4" />
   </a>
 </p>
 
