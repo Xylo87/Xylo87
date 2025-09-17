@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Super Street Fighter 2 Turbo competitor
 
-### Feel free to take a look at my latest projects.
+## Feel free to take a look at my latest projects. Always curious about learning new techs !
 
 
 <!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) --->
