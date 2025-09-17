@@ -3,7 +3,7 @@
 - 👀 I’m interested in Back-End & Front-End (Symfony, PHP, CSS, JavaScript, SQL...)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Symfony, PHP & advanced CSS
-- 📫 How to reach me theo.arbogast@hotmail.fr
+- 📫 How to reach me theo.arbogast@hotmail.fr or [linkedin/theo-arbogast](https://www.linkedin.com/in/theo-arbogast/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Super Street Fighter 2 Turbo competitor
 
