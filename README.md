@@ -9,11 +9,31 @@
 
 ## Feel free to take a look at my latest projects. Always curious about learning new techs !
 
-
 <p align="center">
   ⏪ Languages & Tools ⏩ <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,mongodb,git,vscode&perline=4" />
+  </a>
+</p>
+
+<p align="center">
+  ⏪ Frameworks ⏩ <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=symfony" />
+  </a>
+</p>
+
+<p align="center">
+  ⏪ UX / UI ⏩ <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</p>
+
+<p align="center">
+  ⏪ Currently learning ⏩ <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,py" />
   </a>
 </p>
 
