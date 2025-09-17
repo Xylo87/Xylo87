@@ -1,6 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-- 👋 Hi, I’m @Xylo87
+# 👋 Hi, I’m Théo Arbogast
 - 👀 I’m interested in Back-End & Front-End (Symfony, PHP, CSS, JavaScript, SQL...)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Symfony, PHP & advanced CSS
