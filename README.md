@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Théo Arbogast
+## Let's work and code together !
 - 👀 I’m interested in Back-End & Front-End (Symfony, PHP, CSS, JavaScript, SQL...)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Symfony, PHP & advanced CSS
