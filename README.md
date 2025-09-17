@@ -11,6 +11,7 @@
 
 
 <p align="center">
+  ⏪ Languages and Tools ⏩
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql" />
   </a>
