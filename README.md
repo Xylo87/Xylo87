@@ -17,21 +17,21 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   ⏪ Frameworks ⏩ <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=symfony" />
   </a>
 </p>
 
-<p align="center">
+<p>
   ⏪ UX / UI ⏩ <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
 
-<p align="center">
+<p>
   ⏪ Currently learning ⏩ <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,py" />
