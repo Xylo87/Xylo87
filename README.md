@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Théo Arbogast
-### Feel free to take a look at my lastest projects. Always curious about learning new techs. Let's work and code together 💪
+### Feel free to take a look at my lastest projects. 
 
 - 👀 I’m interested in Back-End & Front-End (Symfony, PHP, CSS, JavaScript, SQL...)
 - 🌱 I’m currently learning Python
