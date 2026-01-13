@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Théo Arbogast
 ## Let's work and code together 💪
-- 👀 I’m interested in Back-End & Front-End (Symfony, PHP, CSS, JavaScript, SQL...)
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Back-End & Front-End (Symfony, PHP, CSS, JavaScript, SQL, Python...)
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Symfony, PHP & advanced CSS
 - ▶️ Proud father of [Critix.fr](https://critix.fr/)
 - 📫 How to reach me theo.arbogast@hotmail.fr or [linkedin/theo-arbogast](https://www.linkedin.com/in/theo-arbogast/)
@@ -13,7 +13,7 @@
 <p align="center">
   ⏪ Languages & Tools ⏩ <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,mongodb,git,vscode&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,py,mongodb,git,vscode&perline=4" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 <p align="center">
   ⏪ Currently learning ⏩ <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,py" />
+    <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </p>
 
